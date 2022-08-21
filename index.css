@@ -61,6 +61,6 @@ button {
 .convert-box {
     background: #273549;
     margin: 25px 100px;
-    padding-bottom: 50px;
+    padding: 50px 0;
     border-radius: 5px;
 }
