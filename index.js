@@ -7,7 +7,7 @@ let convertBtn = document.getElementById("convert-btn")
 let inputEl = document.getElementById("input-el")
 
 
-// Grab the ids where the conversions will be rendered
+// Grab the elements where the conversions will be rendered
 const lengthEl = document.getElementById("length-el")
 const volumeEl = document.getElementById("volume-el")
 const massEl = document.getElementById("mass-el")
